@@ -3,6 +3,6 @@ terraform {
     bucket = "terraform-state-bucket-2003"
     key = "main"
     region = "ap-south-1"
-    dynamodb_table = "TerraformStateLock"
+    dynamodb_table = "JayaterraFormStateLock"
   }
 }
